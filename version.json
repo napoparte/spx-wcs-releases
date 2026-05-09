@@ -4,8 +4,13 @@
   "release_date": "2026-05-09",
   "changelog": "Release version 1.1.1",
   "changelog_exe": "Release version 1.1.1",
+  "changelog_msi": "Release version 1.1.1",
   "version_exe": "1.1.1",
+  "version_msi": "1.1.1",
   "download_url_exe": "https://github.com/napoparte/spx-wcs-releases/releases/download/v1.1.1/SPX_WCS.exe",
   "checksum_exe": "96e8815429469a128d4e6720b2f243c32bd0dbedafbfd972af3fd10ea87fe748",
-  "size_mb_exe": 100.5
+  "size_mb_exe": 100.5,
+  "download_url_msi": "https://github.com/napoparte/spx-wcs-releases/releases/download/v1.1.1/SPX_WCS_Setup.msi",
+  "checksum_msi": "05ffc3576e10f4c57e7c93f50a39dc3d40728a8dcd3758d77f1bfefabc46547d",
+  "size_mb_msi": 100.36
 }
