@@ -5,6 +5,7 @@
   "changelog": "Release version 5.6.7",
   "changelog_exe": "Release version 5.6.7",
   "version_exe": "5.6.7",
+  "download_url_exe": "https://github.com/napoparte/spx-wcs-releases/releases/download/v5.6.7/SPX_WCS.exe",
   "checksum_exe": "9ef14c898ede7e9ce235b857b83ec2d3f15320d745f3395d1fc67a563f924b50",
   "size_mb_exe": 100.54
 }
