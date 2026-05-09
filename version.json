@@ -1,11 +1,11 @@
 {
-  "version": "1.1.1",
+  "version": "3.3.3",
   "installer_type": "dual",
   "release_date": "2026-05-09",
-  "changelog": "Release version 1.1.1",
-  "changelog_exe": "Release version 1.1.1",
-  "version_exe": "1.1.1",
-  "download_url_exe": "https://github.com/napoparte/spx-wcs-releases/releases/download/v1.1.1/SPX_WCS.exe",
-  "checksum_exe": "96e8815429469a128d4e6720b2f243c32bd0dbedafbfd972af3fd10ea87fe748",
-  "size_mb_exe": 100.5
+  "changelog": "Release version 3.3.3",
+  "changelog_exe": "Release version 3.3.3",
+  "version_exe": "3.3.3",
+  "download_url_exe": "https://github.com/napoparte/spx-wcs-releases/releases/download/v3.3.3/SPX_WCS.exe",
+  "checksum_exe": "b8e05850c7d09ee5e085945583b76ae7b4ed83d23a5d8b7c6a08a9ae65fa8a05",
+  "size_mb_exe": 100.54
 }
