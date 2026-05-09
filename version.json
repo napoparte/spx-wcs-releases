@@ -4,8 +4,13 @@
   "release_date": "2026-05-09",
   "changelog": "Release version 2.3.4",
   "changelog_exe": "Release version 2.3.4",
+  "changelog_msi": "Release version 2.3.4",
   "version_exe": "2.3.4",
+  "version_msi": "2.3.4",
   "download_url_exe": "https://github.com/napoparte/spx-wcs-releases/releases/download/v2.3.4/SPX_WCS.exe",
   "checksum_exe": "bac48afca24a38c76f14090d6f882d7727410e5d4af475ae0239238cc33fea94",
-  "size_mb_exe": 100.54
+  "size_mb_exe": 100.54,
+  "download_url_msi": "https://github.com/napoparte/spx-wcs-releases/releases/download/v2.3.4/SPX_WCS_Setup.msi",
+  "checksum_msi": "2dfabde6f7629f5a009f930f1f6ac58bc0d93ad49affa9a5ddd079e36f18f996",
+  "size_mb_msi": 100.39
 }
