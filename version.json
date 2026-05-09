@@ -1,16 +1,8 @@
 {
-  "version": "2.2.2",
-  "installer_type": "dual",
+  "version": "1.2.3",
+  "installer_type": "exe",
+  "download_url": "https://github.com/napoparte/spx-wcs-releases/releases/download/v2.2.2/SPX_WCS.exe",
+  "checksum": "",
   "release_date": "2026-05-09",
-  "changelog": "Release version 1.2.3",
-  "changelog_exe": "Release version 1.2.3",
-  "changelog_msi": "Release version 1.2.3",
-  "version_exe": "2.2.2",
-  "version_msi": "2.2.2",
-  "download_url_exe": "https://github.com/napoparte/spx-wcs-releases/releases/download/v2.2.2/SPX_WCS.exe",
-  "checksum_exe": "ed0c3ef7b04ee0e0a27b24efce621c1902af7e65ce00921a63173f233041c5a1",
-  "size_mb_exe": 100.54,
-  "download_url_msi": "https://github.com/napoparte/spx-wcs-releases/releases/download/v2.2.2/SPX_WCS_Setup.msi",
-  "checksum_msi": "8df0031509d1b8260f37c7eb91e7d9f796bb324f860838fa92786849f7718977",
-  "size_mb_msi": 100.39
+  "changelog": "Release version 2.2.2"
 }
