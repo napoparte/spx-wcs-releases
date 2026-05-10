@@ -1,16 +1,16 @@
 {
-  "version": "2.2.2",
+  "version": "4.4.4",
   "installer_type": "dual",
   "release_date": "2026-05-10",
-  "changelog": "Release version 2.2.2",
-  "changelog_exe": "Release version 2.2.2",
-  "changelog_msi": "Release version 2.2.2",
-  "version_exe": "2.2.2",
-  "version_msi": "2.2.2",
-  "download_url_exe": "https://github.com/napoparte/spx-wcs-releases/releases/download/v2.2.2/SPX_WCS.exe",
-  "checksum_exe": "aa9d30e5dfb70d0f7cd156b1d356ba3746b60d1f4fcf602c51151b93d66303dc",
+  "changelog": "Release version 4.4.4",
+  "changelog_exe": "Release version 4.4.4",
+  "changelog_msi": "Release version 4.4.4",
+  "version_exe": "4.4.4",
+  "version_msi": "4.4.4",
+  "download_url_exe": "https://github.com/napoparte/spx-wcs-releases/releases/download/v4.4.4/SPX_WCS.exe",
+  "checksum_exe": "16c6730aff4ddec7d76451ddddad789cf09bef0b5969e65c35e4fe81313699b6",
   "size_mb_exe": 100.54,
-  "download_url_msi": "https://github.com/napoparte/spx-wcs-releases/releases/download/v2.2.2/SPX_WCS_Setup.msi",
-  "checksum_msi": "1e3d5e29bd4a95f0df1b502d9a55226c02883615a21c0f8fa04c73f62b1021fe",
-  "size_mb_msi": 100.39
+  "download_url_msi": "https://github.com/napoparte/spx-wcs-releases/releases/download/v4.4.4/SPX_WCS_Setup.msi",
+  "checksum_msi": "38695f600bcc17bc979af3cee0d19bbc84f63d0994095fae41a54ec8fd3e4e8f",
+  "size_mb_msi": 100.4
 }
